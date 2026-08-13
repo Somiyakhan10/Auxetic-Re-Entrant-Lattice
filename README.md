@@ -1,4 +1,4 @@
-# Auxetic Re-Entrant Lattice — Computational Surrogate & Inverse Design
+# Auxetic Re-Entrant Lattice - Computational Surrogate & Inverse Design
 
 Computational Design and Machine-Learning-Based Property Prediction of Re-Entrant Auxetic PLA Lattice Structures for Additive Manufacturing
 
