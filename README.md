@@ -9,6 +9,7 @@ Computational Design and Machine-Learning-Based Property Prediction of Re-Entran
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/afumetto/3dprinter)
 [![Status](https://img.shields.io/badge/Status-Research%20Prototype-yellow)]()
 
+*
 A computational research prototype combining an analytical mechanics model of
 re-entrant auxetic unit cells with a real, publicly available additive
 manufacturing dataset, coupled through a machine-learning surrogate,
