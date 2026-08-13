@@ -134,11 +134,3 @@ auxetic-am-surrogate/
 - The two datasets are presented side by side and are not fused into a single
   model.
 
-## Research Context
-
-This project connects to Çelebi, A., *"Evaluation of Mechanical Properties of
-PLA Auxetic Structures Produced by Additive Manufacturing,"* Journal of
-Materials and Mechatronics (2023), and is presented as a computational
-prototype and preliminary screening tool, not as validated experimental
-research. See `SRS.md` for the full requirements specification and
-credibility notes.
