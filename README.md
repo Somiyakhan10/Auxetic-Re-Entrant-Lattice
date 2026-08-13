@@ -12,9 +12,7 @@ Computational Design and Machine-Learning-Based Property Prediction of Re-Entran
 A computational research prototype combining an analytical mechanics model of
 re-entrant auxetic unit cells with a real, publicly available additive
 manufacturing dataset, coupled through a machine-learning surrogate,
-inverse-design search, and an interactive Streamlit dashboard. Developed in
-connection with Prof. Ahu Çelebi's published research on PLA auxetic
-structures produced by additive manufacturing.
+inverse-design search, and an interactive Streamlit dashboard. 
 
 ---
 
